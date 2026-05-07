@@ -1,6 +1,5 @@
 # Author: Tobechi Onubogu 
-#
-# ECE 4514: Jailbreaking Gemini For Harry Potter Book 1
+
 
 from google import genai
 from google.genai import types
